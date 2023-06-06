@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## Food App
+## Deliciously Digital: Crafting a Mouthwatering Food App with Flutter
 
 <p align ="center"> 
 <i>A Food App using <a href="https://flutter.dev/">Flutter 💕</a> </i>
