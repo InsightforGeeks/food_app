@@ -3,19 +3,13 @@
     <img src="appimages/poster.png" alt="Logo"> 
   </a>
 </p>
-#Food App
-A new Flutter project.
 
-## Getting Started
+## Food App
 
-This project is a starting point for a Flutter application.
+<p align ="center"> 
+<i>A Food App using <a href="https://flutter.dev/">Flutter 💕</a> </i>
+<br><br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## flutterforgeeks.com  | whitelistai.in
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# food_app
