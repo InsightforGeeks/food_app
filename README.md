@@ -1,5 +1,9 @@
-# food_app
-
+<p align="center">
+  <a href="https://github.com/WhiteListai-in/food_app">
+    <img src="appimages/poster.png" alt="Logo"> 
+  </a>
+</p>
+#Food App
 A new Flutter project.
 
 ## Getting Started
